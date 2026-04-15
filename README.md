@@ -1,8 +1,8 @@
-# ssh-executor 1.0.3
+# ssh-executor 1.0
 
 This release continues the packaging cleanup of **ssh-executor** and explicitly declares all runtime requirements used by the bundled helper.
 
-## What changed in 1.0.3
+## What changed in 1.0
 
 - declares `python3` in skill metadata alongside `ssh` and `bash`
 - keeps bundled script references aligned with `scripts/ssh-run.sh`
